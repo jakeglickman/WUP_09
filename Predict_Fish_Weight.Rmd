@@ -54,11 +54,11 @@ subsets(regsubsets.out,statistic="adjr2",legend="bottomright",main="Adjusted R^2
 
 ### Best Models
 
-The best model for Perch is Height and Width.
+The best model for Perch is Height and Width. This is shown because it is the one highest up on the y-axis.
 
 ### Best Two regressor model
 
-The best two regressor model is Height and Width.
+The best two regressor model is Height and Width. The graph tells us it is the best 2 regressor model because it is the model places on the graph.
 
 
 ```{r}
