@@ -124,10 +124,12 @@ subsets(regsubsets.out,statistic="adjr2",legend="bottomright",main="Adjusted R^2
 
 ### Best Models
 
-The best model is Lenth3 and Width because it has the highest adjusted r squared. It is the furthest upward on the y-axis.
+The best model is Length3 and Width because it has the highest adjusted r squared. It is the furthest upward on the y-axis.
 
 ### Best Two regressor model
 
 The best two regressor model is Length3 and Width because it gave he highest adjusted r squared and the graph placed it as the best model regressor 2 model.
 
 ## Final Summary Statements
+
+The best model for determining Perch fish weight is height and width. The best model for determining Pike fish weight is Length1, Length2, Length3, height, and width. The best model for determining Roach fish weight is Lenght3 and width.
